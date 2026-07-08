@@ -63,5 +63,4 @@ I believe that continuous learning and adaptability are essential for profession
 ---
 
 ## 📊 GitHub Statistics
-![AD's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adpaisen&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adpaisen&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=adpaisen&theme=tokyonight)
