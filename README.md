@@ -69,7 +69,7 @@ I believe that continuous learning and adaptability are essential for profession
       <img src="https://github-readme-stats-fast.vercel.app/api?username=adpaisen&show_icons=true&theme=codeSTACKr&border_color=E4E2E2&include_all_commits=true&cache_seconds=1800&v=2" width="100%">
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=adpaisen&theme=codeSTACKr&border_color=E4E2E2&v=5" height="180">
+      <img src="https://streak-stats.demolab.com?user=adpaisen&theme=codeSTACKr&border_color=E4E2E2&v=1" height="180">
     </td>
   </tr>
 
